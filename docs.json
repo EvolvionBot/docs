@@ -30,6 +30,17 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Updates",
+        "versions": [
+          {
+            "version": "1.0.0",
+            "pages": [
+              "changelog"
+            ]
+          }
+        ]
       }
     ]
   },
