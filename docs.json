@@ -15,7 +15,9 @@
         "pages": [
           {
             "group": "Modules",
-            "pages": []
+            "pages": [
+              "auto-moderation"
+            ]
           },
           "getting-started"
         ]
