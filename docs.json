@@ -12,14 +12,15 @@
     "tabs": [
       {
         "tab": "Home",
-        "pages": [
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": []
+          },
           {
             "group": "Modules",
-            "pages": [
-              "auto-moderation"
-            ]
-          },
-          "getting-started"
+            "pages": []
+          }
         ]
       }
     ]
