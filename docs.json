@@ -13,6 +13,10 @@
       {
         "tab": "Home",
         "pages": [
+          {
+            "group": "Modules",
+            "pages": []
+          },
           "getting-started"
         ]
       }
