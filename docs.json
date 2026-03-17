@@ -15,11 +15,18 @@
         "groups": [
           {
             "group": "Getting Started",
-            "pages": []
+            "pages": [
+              "inviting-bot",
+              "faq"
+            ]
           },
           {
             "group": "Modules",
-            "pages": []
+            "pages": [
+              "auto-moderation",
+              "twitch-alerts",
+              "server-backups"
+            ]
           }
         ]
       }
