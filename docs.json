@@ -39,6 +39,18 @@
             "pages": [
               "changelog"
             ]
+          },
+          {
+            "version": "1.0.1",
+            "pages": [
+              "changelog-2"
+            ]
+          },
+          {
+            "version": "1.02",
+            "pages": [
+              "changelog-1"
+            ]
           }
         ]
       }
