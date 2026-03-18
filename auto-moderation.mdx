@@ -1,4 +1,105 @@
 ---
-title: 'Auto Moderation'
+title: "AutoModeration"
 ---
 
+# Auto Moderation
+
+Keep your server safe, clean, and drama-free with **Evolvion’s powerful AutoMod system**.
+
+AutoMod automatically detects and handles unwanted behavior so your moderators don’t have to.
+
+---
+
+## Overview
+
+Evolvion AutoMod helps you:
+
+- Prevent spam and raids
+- Filter harmful or inappropriate content
+- Enforce server rules automatically
+- Reduce manual moderation workload
+
+---
+
+## Features
+
+### Spam Protection
+
+Detect and stop:
+
+- Message spam
+- Mention spam
+- Emoji spam
+- Duplicate messages
+
+**Commands:**
+
+```text
+/automod spam enable
+/automod spam disable
+/automod spam set max_messages:5 interval:10
+```
+
+---
+
+### Link Filtering
+
+Block unwanted links or restrict messages to trusted domains.
+
+- Block all links
+- Allow only whitelisted domains
+- Detect disguised links
+
+**Commands:**
+
+```text
+/automod links enable
+/automod links disable
+/automod links whitelist add domain:youtube.com
+/automod links whitelist remove domain:youtube.com
+```
+
+---
+
+### Word Filter
+
+Automatically delete messages containing banned words.
+
+- Custom blacklist
+- Case-insensitive detection
+- Partial word matching
+
+**Commands:**
+
+```text
+/automod words add word:example
+/automod words remove word:example
+/automod words list
+```
+
+---
+
+### Caps Filter
+
+Prevent excessive use of capital letters.
+
+**Commands:**
+
+```text
+/automod caps enable
+/automod caps disable
+/automod caps set percentage:70
+```
+
+---
+
+### Invite Filter
+
+Block Discord invite links to prevent advertising.
+
+**Commands:**
+
+```text
+/automod invites enable
+/automod invites disable
+```
